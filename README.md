@@ -62,7 +62,7 @@ The APIes allows users to create, retrieve, update, and delete events. It provid
 
 # Object Data Model
 - An event object has the following properties:
-`
+```
 {
   "type": "event",
   "uid": 18,
@@ -78,7 +78,7 @@ The APIes allows users to create, retrieve, update, and delete events. It provid
   "attendees": "Array of user IDs who are attending the event"
 }
 
-`
+```
 
 # Technologies Used
 - Node.js
